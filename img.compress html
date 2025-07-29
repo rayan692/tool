@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+git add .
+git commit -m "Add initial HTML tool"
+git push origin main
+
+            --medium-gray: #757575;
+        }<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,8 +26,6 @@
             --accent-color: #ea4335;
             --light-gray: #f5f5f5;
             --dark-gray: #333;
-            --medium-gray: #757575;
-        }
         
         * {
             box-sizing: border-box;
